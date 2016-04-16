@@ -1,7 +1,6 @@
 # Pure Click
 
-Scheduled runner designed to book gym classes as they're released for a popular
-UK gym chain.
+Scheduled runner for booking gym classes at [Pure Gym](http://www.puregym.com/).
 
 ## About
 
