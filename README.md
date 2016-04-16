@@ -12,7 +12,7 @@ Will work out of the box on Heroku's free tier.
 
 ## Usage
 
-Depends on a couple of environmental values:
+Depends on the following of environmental values:
 
 * `PURE_URL`: The URL for the gym's website.
 * `PURE_EMAIL`: The login email used for the gym's website.
